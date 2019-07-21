@@ -1,2 +1,2 @@
 # code_ml
-# I do this Repository to store my code that i write for learning ML 
+# I build this Repository to store my codes that I write for learning ML 
